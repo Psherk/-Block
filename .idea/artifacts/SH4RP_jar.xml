@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SH4RP.jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="SH4RP.jar">
+      <element id="module-output" name="¡Block" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Bobba/Library/slf4j-api-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Bobba/Library/bonecp-0.7.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Bobba/Library/guava-11.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Bobba/Library/netty-3.5.9.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Bobba/Library/slf4j-simple-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Bobba/Library/mysql-connector-java-5.1.6-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
